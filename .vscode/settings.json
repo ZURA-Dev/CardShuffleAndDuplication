@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.gradle": "gradle",
+        "array": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp"
+    }
+}
