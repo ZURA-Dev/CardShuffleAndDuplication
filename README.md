@@ -1,2 +1,2 @@
-# CardShuffleAndDuplication
-This project is based off the "you'll never get the same deck of cards twice", this is just for fun but my goal is to see how many times i will need to shuffle a deck of cards till i get a matching deck.
+# Card Shuffle Uniquity
+This project is to bust the tale of whether its true that you can never get the same shuffle of cards as someone else. This project is just for fun, but I just want to see how many duplications I can get.
